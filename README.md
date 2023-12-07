@@ -1,6 +1,5 @@
 HƯỚNG DẪN CÀI ĐẶT
-Setup:
-Visual Studio Code: Các bạn có thể tải VS Code tại đây.
+Setup: Visual Studio Code: Các bạn có thể tải VS Code tại đây.
 Bước 1: Cài đặt môi trường Node.js
 ­- Tải nodejs tại đây.
 - ­Sau khi cài đặt xong, mở terminal VS Code và chạy 2 lệnh: node -v và npm -v để xem phiên bản cài đặt, nếu kết quả trả về là 2 phiên bản giống như bên dưới là cài đặt thành công.
@@ -15,11 +14,14 @@ Bước 3: Tạo project React.js
 Bước 4: Thực thi lệnh chạy
 ­	Khởi động máy chủ Node và chạy ứng dụng của bạn: npm start
 ­	Khi này ta thấy ứng dụng React sẽ tự động mở một trang chạy trên trình duyệt với đường dẫn: http://localhost:3000/, kết quả hiển thị như bên dưới là bạn đã cài đặt thành công.
+
          ![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/ea560c72-6e58-4229-8b76-a7867fc2841f)
+  
 Hướng dẫn tải mã nguồn từ github:
 ­	Vào github Canny project tại đây. 
 ­	Chọn nút Code:
- ![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/2345a2dc-054a-48bd-9f06-760875d09db4)
+
+		 ![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/2345a2dc-054a-48bd-9f06-760875d09db4)
 
 ­	Khi đó 1 bảng thông báo sẽ hiện ra, chọn Download ZIP để tải toàn bộ mã nguồn về máy và giải nén. Sau đó chuyển code vào thư mục vừa tạo react và tiến hành cài đặt các thư viện như hướng dẫn ở trên.
 Package:
@@ -32,9 +34,11 @@ Run project:
 Bước 1: Mở 1 terminal mới, chuyển tới thư mục canny_edge_detector:
 		cd canny_edge_detector
 		Chạy lệnh: uvicorn main:app --reload
+  
  ![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/e6d8c016-5f5f-4ed4-817e-f06c18a35eba)
 
 Bấm vào đường dẫn: 127.0.0.1:8000 chuyển tới 1 trang web như hình tức là chạy được file main.py thành công.
+
  ![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/8f3bb89a-f9c8-48b5-a5de-5d5e7ee43e21)
 
 Bước 2: Mở 1 terminal mới, chuyển tới thư mục Interface chứa react project:
