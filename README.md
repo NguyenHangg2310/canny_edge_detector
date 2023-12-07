@@ -14,14 +14,10 @@ Bước 3: Tạo project React.js
 Bước 4: Thực thi lệnh chạy
 ­	Khởi động máy chủ Node và chạy ứng dụng của bạn: npm start
 ­	Khi này ta thấy ứng dụng React sẽ tự động mở một trang chạy trên trình duyệt với đường dẫn: http://localhost:3000/, kết quả hiển thị như bên dưới là bạn đã cài đặt thành công.
-
-  ![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/ea560c72-6e58-4229-8b76-a7867fc2841f)
   
 Hướng dẫn tải mã nguồn từ github:
 ­	Vào github Canny project tại đây. 
 ­	Chọn nút Code:
-
-![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/2345a2dc-054a-48bd-9f06-760875d09db4)
 
 ­	Khi đó 1 bảng thông báo sẽ hiện ra, chọn Download ZIP để tải toàn bộ mã nguồn về máy và giải nén. Sau đó chuyển code vào thư mục vừa tạo react và tiến hành cài đặt các thư viện như hướng dẫn ở trên.
 Package:
