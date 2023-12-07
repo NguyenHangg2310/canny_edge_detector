@@ -2,22 +2,20 @@ HƯỚNG DẪN CÀI ĐẶT
 Setup:
 Visual Studio Code: Các bạn có thể tải VS Code tại đây.
 Bước 1: Cài đặt môi trường Node.js
-­Tải nodejs tại đây.
-­Sau khi cài đặt xong, mở terminal VS Code và chạy 2 lệnh: node -v và npm -v để xem phiên bản cài đặt, nếu kết quả trả về là 2 phiên bản giống như bên dưới là cài đặt thành công.
+­- Tải nodejs tại đây.
+- ­Sau khi cài đặt xong, mở terminal VS Code và chạy 2 lệnh: node -v và npm -v để xem phiên bản cài đặt, nếu kết quả trả về là 2 phiên bản giống như bên dưới là cài đặt thành công.
+  
      ![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/54eed251-e97b-40ad-bdff-56e1dc89b4d3)
+  
 Bước 2: Cài đặt bộ cài app React
-npm install -g create-react-app
+- npm install -g create-react-app
 Bước 3: Tạo project React.js
-­	Trong terminal, nhập lệnh để tạo 1 react project có tên là interface: 
-npx create-react-app interface
-­	Sẽ mất vài phút để tạo project, sau đó bạn có thể chuyển hướng tới thư mục interface bằng cách chạy lệnh sau:
-cd Interface
+- Trong terminal, nhập lệnh để tạo 1 react project có tên là interface: npx create-react-app interface
+- Sẽ mất vài phút để tạo project, sau đó bạn có thể chuyển hướng tới thư mục interface bằng cách chạy lệnh sau: cd Interface
 Bước 4: Thực thi lệnh chạy
 ­	Khởi động máy chủ Node và chạy ứng dụng của bạn: npm start
 ­	Khi này ta thấy ứng dụng React sẽ tự động mở một trang chạy trên trình duyệt với đường dẫn: http://localhost:3000/, kết quả hiển thị như bên dưới là bạn đã cài đặt thành công.
          ![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/ea560c72-6e58-4229-8b76-a7867fc2841f)
-
-
 Hướng dẫn tải mã nguồn từ github:
 ­	Vào github Canny project tại đây. 
 ­	Chọn nút Code:
