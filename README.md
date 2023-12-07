@@ -4,7 +4,8 @@ Visual Studio Code: Các bạn có thể tải VS Code tại đây.
 Bước 1: Cài đặt môi trường Node.js
 ­	Tải nodejs tại đây.
 ­	Sau khi cài đặt xong, mở terminal VS Code và chạy 2 lệnh: node -v và npm -v để xem phiên bản cài đặt, nếu kết quả trả về là 2 phiên bản giống như bên dưới là cài đặt thành công.
-      ![alt]([http://~](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/27d9503a-4226-497b-b1a3-ff7957868408))
+     ![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/54eed251-e97b-40ad-bdff-56e1dc89b4d3)
+
 
 Bước 2: Cài đặt bộ cài app React
 npm install -g create-react-app
@@ -22,26 +23,30 @@ Bước 4: Thực thi lệnh chạy
 Hướng dẫn tải mã nguồn từ github:
 ­	Vào github Canny project tại đây. 
 ­	Chọn nút Code:
- 
+ ![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/2345a2dc-054a-48bd-9f06-760875d09db4)
+
 ­	Khi đó 1 bảng thông báo sẽ hiện ra, chọn Download ZIP để tải toàn bộ mã nguồn về máy và giải nén. Sau đó chuyển code vào thư mục vừa tạo react và tiến hành cài đặt các thư viện như hướng dẫn ở trên.
 Package:
-OpenCV: 	pip install opencv-python
+OpenCV: pip install opencv-python
 Numpy: 	pip install numpy
 npm install axios
 pip install fastapi
 pip install uvicorn
 Run project:
 Bước 1: Mở 1 terminal mới, chuyển tới thư mục canny_edge_detector:
-cd canny_edge_detector
-		 Chạy lệnh: 		  uvicorn main:app --reload
- 
-		Bấm vào đường dẫn: 127.0.0.1:8000 chuyển tới 1 trang web như hình tức là chạy được file main.py thành công.
- 
+		cd canny_edge_detector
+		Chạy lệnh: uvicorn main:app --reload
+ ![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/e6d8c016-5f5f-4ed4-817e-f06c18a35eba)
+
+Bấm vào đường dẫn: 127.0.0.1:8000 chuyển tới 1 trang web như hình tức là chạy được file main.py thành công.
+ ![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/8f3bb89a-f9c8-48b5-a5de-5d5e7ee43e21)
+
 Bước 2: Mở 1 terminal mới, chuyển tới thư mục Interface chứa react project:
-cd Interface
-Chạy ứng dụng:        npm start
+				cd Interface
+Chạy ứng dụng: npm start
 Khi đó, React tự động chuyển tới trang ứng dụng như hình:
  
+![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/b506231a-c2ac-4762-8785-a25b1abffad9)
 
 
 Hướng dẫn sử dụng Canny Edge Detector React App
