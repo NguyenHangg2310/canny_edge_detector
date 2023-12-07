@@ -1,10 +1,11 @@
-HƯỚNG DẪN CÀI ĐẶT
+HƯỚNG DẪN CÀI ĐẶT jjjjj
 Setup:
 Visual Studio Code: Các bạn có thể tải VS Code tại đây.
 Bước 1: Cài đặt môi trường Node.js
 ­	Tải nodejs tại đây.
 ­	Sau khi cài đặt xong, mở terminal VS Code và chạy 2 lệnh: node -v và npm -v để xem phiên bản cài đặt, nếu kết quả trả về là 2 phiên bản giống như bên dưới là cài đặt thành công.
-      ![alt]([http://~](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/27d9503a-4226-497b-b1a3-ff7957868408))
+      ![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/7028b04a-39a9-4980-8219-44bddeb2e12d)
+
 
 Bước 2: Cài đặt bộ cài app React
 npm install -g create-react-app
