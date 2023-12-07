@@ -13,8 +13,9 @@ Bước 3: Tạo project React.js
 - Sẽ mất vài phút để tạo project, sau đó bạn có thể chuyển hướng tới thư mục interface bằng cách chạy lệnh sau: cd Interface
 Bước 4: Thực thi lệnh chạy
 ­	Khởi động máy chủ Node và chạy ứng dụng của bạn: npm start
-­	Khi này ta thấy ứng dụng React sẽ tự động mở một trang chạy trên trình duyệt với đường dẫn: http://localhost:3000/, kết quả hiển thị như bên dưới là bạn đã cài đặt thành công.
-  
+­	- Khi này ta thấy ứng dụng React sẽ tự động mở một trang chạy trên trình duyệt với đường dẫn: http://localhost:3000/, kết quả hiển thị như bên dưới là bạn đã cài đặt thành công.
+![image](https://github.com/NguyenHangg2310/canny_edge_detector/assets/121224475/e7fbdd07-7451-4d91-b042-136f879ebcb9)
+
 Hướng dẫn tải mã nguồn từ github:
 ­	Vào github Canny project tại đây. 
 ­	Chọn nút Code:
